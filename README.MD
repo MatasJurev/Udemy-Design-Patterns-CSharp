@@ -1,2 +1,1 @@
 # C# design patterns practice
-
